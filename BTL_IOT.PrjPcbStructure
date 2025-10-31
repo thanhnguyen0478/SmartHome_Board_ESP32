@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=BTL_MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BTL_MCU.SchDoc|FileName=BTL_POWER.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BTL_MCU.SchDoc|FileName=BTL_RELAY.SchDoc|SheetNumber=3

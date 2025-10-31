@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=J1.1-1
+Removed Pin From Net: NetName=+5VDC Pin=J1.1-2
+Removed Pin From Net: NetName=GND Pin=J2.1-1
+Removed Pin From Net: NetName=+5VDC Pin=J2.1-2
+Removed Pin From Net: NetName=GND Pin=J3.1-1
+Removed Pin From Net: NetName=+5VDC Pin=J3.1-2
+Removed Pin From Net: NetName=GND Pin=J4.1-1
+Removed Pin From Net: NetName=+5VDC Pin=J4.1-2
+Change Component Comment : Designator=K1.3 Old Comment=G5NB-1A-E 24VDC New Comment=G5NB-1A-E 12VDC
+Change Component Comment : Designator=K2.3 Old Comment=G5NB-1A-E 24VDC New Comment=G5NB-1A-E 12VDC
+Added Pin To Net: NetName=+5VDC Pin=J1.1-1
+Added Pin To Net: NetName=GND Pin=J1.1-2
+Added Pin To Net: NetName=+5VDC Pin=J2.1-1
+Added Pin To Net: NetName=GND Pin=J2.1-2
+Added Pin To Net: NetName=+5VDC Pin=J3.1-1
+Added Pin To Net: NetName=GND Pin=J3.1-2
+Added Pin To Net: NetName=+5VDC Pin=J4.1-1
+Added Pin To Net: NetName=GND Pin=J4.1-2
+Added Room: Name=BTL_MCU
+Added Room: Name=BTL_POWER
+Added Room: Name=BTL_RELAY
